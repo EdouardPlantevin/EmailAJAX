@@ -34,7 +34,7 @@
 // Changement de class
 $(document).ready(function(){
     $("a").click(function(){
-        $(this).addClass("oki");
+        $(this).addClass("rouge");
     });
 });
 
